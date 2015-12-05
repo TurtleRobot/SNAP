@@ -1,3 +1,3 @@
 # SNAP
 
-Sanp for TurtleRobot
+Snap for TurtleRobot
